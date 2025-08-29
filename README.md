@@ -1,1 +1,3 @@
-# Brainwave-Matrix-Solution-AI-ML-internship
+Fake News Detection System
+
+This project focuses on building a Fake News Detection System using machine learning techniques. The main objective is to classify news articles as either real or fake by analyzing their content. I experimented with multiple algorithms such as Logistic Regression, Gradient Boosting, Random Forest, and XGB to evaluate their performance on the dataset. After careful comparison, I identified the most effective model and implemented it to achieve high accuracy in classification. The system preprocesses textual data, applies feature extraction techniques  and then predicts the authenticity of news. This project demonstrates the importance of machine learning in combating misinformation and provides a practical solution for detecting fake news effectively.
